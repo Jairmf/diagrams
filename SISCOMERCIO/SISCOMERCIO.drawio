@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T13:45:56.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lBGbOcu5rzmXjtWezmEV" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-08T21:15:10.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dxrekAqpqNts5dAPbtKI" version="20.0.4" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Licencias">
-    <mxGraphModel dx="4063" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,13 +231,13 @@
         <mxCell id="92jhZXdpKCf5wFwA51hG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="RVFT1TnoUOrNZ6tFgGIb-18" source="RVFT1TnoUOrNZ6tFgGIb-40" target="92jhZXdpKCf5wFwA51hG-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-40" value="Modificación de datos de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
+        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-40" value="Modificación de datos de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
           <mxGeometry x="514" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="92jhZXdpKCf5wFwA51hG-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="RVFT1TnoUOrNZ6tFgGIb-18" source="RVFT1TnoUOrNZ6tFgGIb-42" target="92jhZXdpKCf5wFwA51hG-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-42" value="Duplicado de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
+        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-42" value="Duplicado de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
           <mxGeometry x="694" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVFT1TnoUOrNZ6tFgGIb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="RVFT1TnoUOrNZ6tFgGIb-18" source="RVFT1TnoUOrNZ6tFgGIb-32" edge="1">
@@ -252,7 +252,7 @@
         <mxCell id="92jhZXdpKCf5wFwA51hG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="RVFT1TnoUOrNZ6tFgGIb-18" source="RVFT1TnoUOrNZ6tFgGIb-43" target="92jhZXdpKCf5wFwA51hG-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-43" value="Cese de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
+        <mxCell id="RVFT1TnoUOrNZ6tFgGIb-43" value="Cese de LF" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="RVFT1TnoUOrNZ6tFgGIb-18" vertex="1">
           <mxGeometry x="878" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RVFT1TnoUOrNZ6tFgGIb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="RVFT1TnoUOrNZ6tFgGIb-18" source="RVFT1TnoUOrNZ6tFgGIb-32" target="RVFT1TnoUOrNZ6tFgGIb-43" edge="1">
